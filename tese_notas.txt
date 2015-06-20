@@ -1,6 +1,8 @@
-Nesse arquivo est∆o as principais notas da minha tese
+Nesse arquivo est√Üo as principais notas da minha tese
 modificando mais uma linha
 
-A ultima modificac∆o eh essa aqui
+A ultima modificac√Üo eh essa aqui
 
 vou tentar alterar aqui pra depois dar um "push"
+
+Alterando na web e sincronizando na m√°quina!!
