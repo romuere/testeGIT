@@ -2,3 +2,5 @@ Nesse arquivo est∆o as principais notas da minha tese
 modificando mais uma linha
 
 A ultima modificac∆o eh essa aqui
+
+vou tentar alterar aqui pra depois dar um "push"
