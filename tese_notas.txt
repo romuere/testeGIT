@@ -1,3 +1,5 @@
+Modificacao local!!!
+
 Nesse arquivo estÆo as principais notas da minha tese
 modificando mais uma linha
 
@@ -5,4 +7,6 @@ A ultima modificacÆo eh essa aqui
 
 vou tentar alterar aqui pra depois dar um "push"
 
-Alterando na web e sincronizando na máquina!!
+Alterando na web e sincronizando na maquina!!
+
+
